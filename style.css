@@ -17,8 +17,9 @@ header{
 }
 
 
-.logo img{
- width: 100px;
+.logo{
+ width: 100%;
+
 }
 
 
@@ -110,3 +111,4 @@ main {
     text-align: center;
 }
 
+    
